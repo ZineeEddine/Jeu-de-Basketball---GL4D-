@@ -9,7 +9,7 @@ Thème et textures = équipe des Lakers de Los Angeles.
 
 ## Installation
 
- - git clone https://code.up8.edu/zine-eddine/jeu-de-basketball-gl4d.git
+ - git clone https://github.com/ZineeEddine/Jeu-de-Basketball---GL4D-.git
  - cd jeu-de-basketball-gl4d
  - cd Lakers_Basketball_GL4D
  - cd make
